@@ -2,10 +2,6 @@
 
 A RuneLite plugin that stops you from misclicking menu options. Add the options you never want to click by accident, and clicking them will do nothing — like Stop Misclicking Tiles, but for any menu option.
 
-## Installation
-
-Install **Stop Misclicking Options** from the RuneLite Plugin Hub.
-
 ## Configuration
 
 ### Blocked options
